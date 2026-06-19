@@ -1,0 +1,11 @@
+cd tecnicaturagit
+
+git status
+
+git add JavaScript
+
+git status
+
+git commit -
+
+git checkout master
